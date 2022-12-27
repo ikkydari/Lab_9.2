@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\darin\OneDrive\Рабочий стол\1 курс\Звіти\Алгоритмізація та програмування\ЛР-8\8.1\8.1.2\Lab_8.1.4\Lab_9.2\Lab_9.2\Source.cpp(145,90): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\darin\OneDrive\Рабочий стол\1 курс\Звіти\Алгоритмізація та програмування\ЛР-8\8.1\8.1.2\Lab_8.1.4\Lab_9.2\Lab_9.2\Source.cpp(151,82): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\darin\OneDrive\Рабочий стол\1 курс\Звіти\Алгоритмізація та програмування\ЛР-8\8.1\8.1.2\Lab_8.1.4\Lab_9.2\Lab_9.2\Source.cpp(159,88): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\darin\OneDrive\Рабочий стол\1 курс\Звіти\Алгоритмізація та програмування\ЛР-8\8.1\8.1.2\Lab_8.1.4\Lab_9.2\Lab_9.2\Source.cpp(250,35): warning C4018: '<': signed/unsigned mismatch
+  Lab_9.2.vcxproj -> C:\Users\darin\OneDrive\Рабочий стол\1 курс\Звіти\Алгоритмізація та програмування\ЛР-8\8.1\8.1.2\Lab_8.1.4\Lab_9.2\x64\Debug\Lab_9.2.exe
